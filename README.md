@@ -7,3 +7,6 @@ The port can also be specified optionally by setting the `PORT` env variable. De
 ## Run 
 * `npm install`
 * `RESPONSE_MESSAGE=hello npm start`
+
+## Run with Docker
+* `docker run -p 3000:3000 -e RESPONSE_MESSAGE='hello' iamnoah4real/saywhat`
