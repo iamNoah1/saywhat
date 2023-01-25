@@ -1,6 +1,6 @@
 {
   "name": "say-what",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "hello world with configurable response text",
   "main": "app.js",
   "scripts": {
